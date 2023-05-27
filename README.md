@@ -263,7 +263,8 @@ jQuery throttle / debounce is distributed under the terms of the [MIT License](h
 
 Minimal Mistakes incorporates [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
 Copyright (c) 2015 Luke Jackson.
-GreedyNav.js is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+GreedyNav.js is distributed under the terms of the [MIT License]![WhatsApp Image 2023-05-24 at 19 27 04](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/f60e0043-744b-43f4-807a-40b71dbec957)
+.
 
 Minimal Mistakes incorporates [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
 Copyright (c) 2015 Max White <mushishi78@gmail.com>.
