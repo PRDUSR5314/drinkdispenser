@@ -270,12 +270,14 @@ Copyright (c) 2015 Max White <mushishi78@gmail.com>.
 Jekyll Group-By-Array is distributed under the terms of the [MIT License](http://opensource.org/license![WhatsApp Image 2023-05-24 at 19 27 05](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/2f8bb89f-95f8-4322-a0e0-2e013eec6346)
 s/MIT).
 
-Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
+Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll T![WhatsApp Image 2023-05-24 at 19 27 04](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/89fefae5-bbb2-4513-902a-40bb22cd2371)
+able of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
 Copyright (c) 2017 Vladimir Jimenez.
 Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT Li![WhatsApp Image 2023-05-24 at 19 27 06 (3)](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/d07ecc95-5297-4972-a00a-5d713d7957ab)
 cense](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
+Minimal Mistakes incorporates [Lunr](http:![WhatsApp Image 2023-05-24 at 19 27 06 (2)](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/a141aa80-de03-4f6e-9be7-2503d211815d)
+//lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [M![WhatsApp Image 2023-05-24 at 19 27 06 (2)](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/adf30a77-1c32-42da-a298-be7a7ca768b8)
 IT License](http://opensource.org/licenses/MIT).
