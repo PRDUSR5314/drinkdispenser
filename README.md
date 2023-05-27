@@ -1,7 +1,10 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# [Minimal Mistakes Jekyll theme](https![Wha![WhatsApp Image 2023-05-24 at 19 27 03 (1)](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/1f7bc255-ca76-4665-8b4b-029a5606c556)
+tsApp Image 2023-05-24 at 19 27 06 (1)](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/97220a4c-0b5a-4e1f-a0c2-bfbd69576f95)
+://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
+[![Jekyll](https://img.shi![WhatsApp Image 2023-05-24 at 19 27 06](https://github.com/PRDUSR5314/drinkdispenser/assets/134660852/1e56ce62-1215-4c83-a881-13f6ca672d4a)
+elds.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
 [![Donate to this project using Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/mmistakes)
